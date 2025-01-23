@@ -16,6 +16,7 @@ Usage
 
 The script can be run using Node.js. To start the script, use:
 
-```node main.js
+```
+node main.js
 ```
 Call the specific function calls to perform different actions like listing, creating a product, listing locations, updating stock, etc.
